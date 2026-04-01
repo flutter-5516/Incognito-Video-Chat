@@ -18,6 +18,9 @@ const Navbar = () => {
           Incognito
         </span>
       </div>
+      <div>
+        
+      </div>
     </motion.div>
   );
 };
